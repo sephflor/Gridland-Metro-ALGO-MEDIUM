@@ -1,1 +1,1 @@
-# Gridland-Metro-ALGO-MEDIUM
+# Gridland-Metro-ALGO-MEDIUM.he function merges overlapping track segments row by row and calculates the total occupied cells. Subtracting this from the total grid cells gives the number of unoccupied cells.
